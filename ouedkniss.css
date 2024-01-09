@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+    border: 10px solid black;
+    display: flex;
+    line-height:50px 
+    
+
+
+}
+.menu{
+    width: 120px;
+    height: 50px;
+    text-align: centre;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: yellow;
+
+}
+.logo{
+    width: 400px;
+    height: 50px;
+    text-align: centre;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgba(36, 112, 46, 0.506);
+
+
+}
+.moteur{
+    width: 1000px;
+    height: 50px;
+    text-align: centre;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgba(52, 46, 105, 0.378);
+
+}
+.panier{
+    width: 100px;
+    height: 50px;
+    text-align: centre;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgba(0, 55, 255, 0.608);
+
+}
+.plus{
+    width: 100px;
+    height: 50px;
+    text-align: centre;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgb(0, 255, 42);
+
+}
+.compte{
+    width: 100px;
+    height: 50px;
+    text-align: centre;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgb(0, 200, 255);
+
+}
